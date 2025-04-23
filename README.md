@@ -14,3 +14,4 @@
 Ton objectif est de faire en sorte que TypeScript accepte tout le code sans erreur.
 Les erreurs doivent disparaître uniquement grâce à tes définitions de types et interfaces. 
 # Ts-Exo
+# Ts-Exo
